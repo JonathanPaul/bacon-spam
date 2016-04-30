@@ -6,7 +6,7 @@ print"\n\r\n\rWelcome to Jon Paul's Bacon SPAMMING Client. 17+ lines of code as 
 name = "bob farmer"
 obj = s.SMTP("smtp.gmail.com:587")
 obj.starttls()
-obj.login("internationalbaconstation", "schoolofmusic")
+obj.login("internationalbaconstation", "FIXTHISNOW")
 print "Logged In! \n\r"
 email = raw_input("Destination Email Address aka Where the Bacon will be Sent: ")
 #message = raw_input("Email Message: ")
